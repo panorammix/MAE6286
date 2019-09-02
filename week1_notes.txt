@@ -1,0 +1,4 @@
+
+In week one we talked about shell commands, version control with git and Python notebooks.
+
+For next class read the basic python commands.
